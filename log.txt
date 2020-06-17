@@ -1,0 +1,8 @@
+=================================================================
+General conventions:
+=================================================================
+Functions that return CVectors have usual name.
+Functions that return reference to existing CVectors must begin with "Get".
+----------------------------------------------------------------------------------------------------------------------------------
+Temporary objects of classes that require destruction have names start with "t".
+----------------------------------------------------------------------------------------------------------------------------------
